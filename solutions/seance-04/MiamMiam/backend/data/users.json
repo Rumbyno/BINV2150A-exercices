@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "email": "admin@miammiam.be",
+    "password": "$2b$10$c/sXW9.Bobd.owBXQKPiN.TWUhzWbqPc5.wU6entAlORUOCgFd1OO",
+    "first_name": "Admin",
+    "last_name": "MiamMiam",
+    "role": "admin",
+    "favorites": [
+      1,
+      4
+    ],
+    "created_at": "2026-09-01T08:00:00.000Z",
+    "updated_at": "2026-09-01T08:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "email": "alice@vinci.be",
+    "password": "$2b$10$ljANbBOpJHzCTpxWtmpZp.b.0z/LPMPwHfK5nMo9epRRvhskHLii2",
+    "first_name": "Alice",
+    "last_name": "Dupont",
+    "role": "user",
+    "favorites": [
+      3
+    ],
+    "created_at": "2026-09-01T08:00:00.000Z",
+    "updated_at": "2026-09-01T08:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "email": "bob@vinci.be",
+    "password": "$2b$10$zI1XnGaCJJvmxnxErBkldOAWSdYO2tiiP4OUqfBHsoBaV3jcJRMTC",
+    "first_name": "Bob",
+    "last_name": "Martin",
+    "role": "user",
+    "favorites": [],
+    "created_at": "2026-09-01T08:00:00.000Z",
+    "updated_at": "2026-09-01T08:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "email": "charlie@vinci.be",
+    "password": "$2b$10$BqvH..DFXru7ae1NipxoHeO/j8obzFBW7Rpz5wlFuEp47vCWBnQ/m",
+    "first_name": "Charlie",
+    "last_name": "Leroy",
+    "role": "user",
+    "favorites": [],
+    "created_at": "2026-10-28T20:25:59.060Z",
+    "updated_at": "2026-10-28T20:25:59.060Z"
+  }
+]
